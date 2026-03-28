@@ -69,6 +69,7 @@ This system:
 
 ## Project Structure
 
+```
 ├── code.py
 ├── model.py
 ├── dataset.csv
@@ -76,6 +77,7 @@ This system:
 ├── attendance.json
 ├── README.md
 └── report.pdf
+```
 
 ---
 
